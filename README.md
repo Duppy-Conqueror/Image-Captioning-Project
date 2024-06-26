@@ -12,7 +12,7 @@ Code rewriting, as well as further developments and discoveries, may be made in 
 ## Prerequisites
 The Jupyter Notebook is intended to be run in [Google Colab](https://colab.google/).
 
-## Dataset
+## Datasets
 The following datasets are used for this project:
 - [Flickr 8k Dataset](https://www.kaggle.com/datasets/adityajn105/flickr8k)
 - [GloVe 6B 50D Word Embeddings](https://www.kaggle.com/datasets/watts2/glove6b50dtxt)
