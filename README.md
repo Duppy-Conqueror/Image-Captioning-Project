@@ -6,7 +6,8 @@ The 2 collaborators of the project:
 - [@Duppy-Conqueror](https://github.com/Duppy-Conqueror) (Owner)
 - [@zlashcomet](https://github.com/zlashcomet)
 
-This repository was cloned from the original project repository to avoid revealing sensitive information. As a result, the commit history before June 2024 is not shown.
+This repository was cloned from the original project repository to avoid revealing sensitive information. <br/>
+As a result, the commit history before June 2024 is not shown. <br/>
 Code rewriting, as well as further developments and discoveries, may be made in the future.
 
 ## Prerequisites
